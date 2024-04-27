@@ -21,7 +21,7 @@ markdown
 ~$ python main.py 
 ```
 
-### Windows:
+### 🤖Windows:
 1. Download the `XGen_By_Marsupilami.zip` file from the GitHub releases.
 2. Extract the file to your desktop or another location.
 3. Run the `XGen.exe` file.
