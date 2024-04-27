@@ -8,8 +8,8 @@ markdown
 ## 🚀 Features
 
 - Generate Discord accounts
-- Generate Discord Nitro codes (without an account)
-- Generate Netflix accounts
+- Generate Discord Nitro codes (without an account) [Soon...]
+- Generate Netflix accounts [Soon...]
 - Generate Facebook accounts
 
 ## 🔧 Installation
