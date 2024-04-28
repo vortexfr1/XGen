@@ -11,6 +11,7 @@ markdown
 - Generate Discord Nitro codes (without an account) [Soon...]
 - Generate Netflix accounts [Soon...]
 - Generate Facebook accounts
+- Generate Credit card (without an account) [Dev...]
 
 ## 🔧 Installation
 
